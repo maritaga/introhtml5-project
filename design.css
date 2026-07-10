@@ -1,4 +1,23 @@
 body {
-    background-color: #F06CA9;
-    font-family: fantasy;
+    background-color: #f6cbdf;
+    font-family: "Raleway", sans-serif;
+    color: rgb(35, 30, 30);
+}
+
+h1 {
+    color: #F06CA9;
+    font-size: 100px;
+    text-align: center;
+    font-weight: 900;
+}
+
+p {
+    color:#470323;
+    font-size: 20px;
+}
+
+h2 {
+    color: #F06CA9;
+    font-size: 50px;
+
 }
